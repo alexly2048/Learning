@@ -1,0 +1,5 @@
+﻿  InputOutputDemo.c
+e:\my\cdemo\cdemo\inputoutputdemo\inputoutputdemo.c(17): warning C4013: “gets”未定义；假设外部返回 int
+e:\my\cdemo\cdemo\inputoutputdemo\inputoutputdemo.c(20): warning C4013: “system”未定义；假设外部返回 int
+e:\my\cdemo\cdemo\inputoutputdemo\inputoutputdemo.c(5): warning C4101: “c”: 未引用的局部变量
+  InputOutputDemo.vcxproj -> E:\My\CDemo\CDemo\Debug\InputOutputDemo.exe
