@@ -1,0 +1,4 @@
+1. 使用多线程(multithreading or free threading)可能遇到的问题：
+	1.	deadlock
+	2.	race conditions
+	3.	synchronizing
