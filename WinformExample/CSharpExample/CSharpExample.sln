@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingExample", "Threadi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadCallBackExample", "ThreadCallBackExample\ThreadCallBackExample.csproj", "{46EA5164-7AF9-4D85-80EC-44AE08FC44B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneExample", "CloneExample\CloneExample.csproj", "{F9B1CEDC-347C-4907-A82D-10E7A894DAF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{46EA5164-7AF9-4D85-80EC-44AE08FC44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46EA5164-7AF9-4D85-80EC-44AE08FC44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46EA5164-7AF9-4D85-80EC-44AE08FC44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B1CEDC-347C-4907-A82D-10E7A894DAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B1CEDC-347C-4907-A82D-10E7A894DAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B1CEDC-347C-4907-A82D-10E7A894DAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B1CEDC-347C-4907-A82D-10E7A894DAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
