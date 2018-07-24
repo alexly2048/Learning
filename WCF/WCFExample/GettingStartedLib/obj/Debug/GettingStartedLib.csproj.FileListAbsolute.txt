@@ -1,0 +1,7 @@
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\obj\Debug\GettingStartedLib.csprojAssemblyReference.cache
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+E:\My\Learning\WCF\WCFExample\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
