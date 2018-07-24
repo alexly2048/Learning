@@ -1,4 +1,0 @@
-﻿  StrDemo.c
-e:\my\learning\cexample\stringdemo\strdemo.c(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-  e:\my\learning\cexample\stringdemo\strdemo.c(12): note: 请考虑在格式字符串中使用“%zd”
-  StringDemo.vcxproj -> E:\My\Learning\CExample\x64\Debug\StringDemo.exe
