@@ -8,6 +8,6 @@ namespace CloneExample.Interface
 {
     public interface ShallowClone<T>
     {
-        T Clone();
+        T ShallowClone();
     }
 }
