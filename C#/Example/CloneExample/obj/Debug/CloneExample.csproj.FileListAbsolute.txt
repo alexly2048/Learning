@@ -1,7 +1,0 @@
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\bin\Debug\CloneExample.exe.config
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\bin\Debug\CloneExample.exe
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\bin\Debug\CloneExample.pdb
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\obj\Debug\CloneExample.csprojAssemblyReference.cache
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\obj\Debug\CloneExample.csproj.CoreCompileInputs.cache
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\obj\Debug\CloneExample.exe
-E:\Document\0_PersonalDocument\0_Learning\C#\Example\CloneExample\obj\Debug\CloneExample.pdb
