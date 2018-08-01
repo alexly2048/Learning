@@ -1,0 +1,2 @@
+C语言强制类型转换： 由低到高
+	int -> unsigned int -> long -> unsigned long -> long long -> unsigned long long -> float -> double -> long double
