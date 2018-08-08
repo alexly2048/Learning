@@ -1,0 +1,5 @@
+1.	Concepts
+	1.	Service-oriented architecture (SOA)
+	2.	WCF supports publishing service metadata using formats specified in industry standards such as WSDL, XML Schema and WS-Policy.
+	3.	BizTalk is designed to receive and transform data from one standardized format to another.
+	4.	Message Transmission Optimization Mechanism (MTOM) 
