@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryManagerExample", "Mem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CArgumentsExample", "CArgumentsExample\CArgumentsExample.vcxproj", "{1B24DB38-8A41-4517-8D26-3639D523F95D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SequenceListDemo", "SequenceListDemo\SequenceListDemo.vcxproj", "{B5793676-343C-4F8B-AF1B-38CBC3DA800A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{1B24DB38-8A41-4517-8D26-3639D523F95D}.Release|x64.Build.0 = Release|x64
 		{1B24DB38-8A41-4517-8D26-3639D523F95D}.Release|x86.ActiveCfg = Release|Win32
 		{1B24DB38-8A41-4517-8D26-3639D523F95D}.Release|x86.Build.0 = Release|Win32
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Debug|x64.ActiveCfg = Debug|x64
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Debug|x64.Build.0 = Debug|x64
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Debug|x86.Build.0 = Debug|Win32
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Release|x64.ActiveCfg = Release|x64
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Release|x64.Build.0 = Release|x64
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Release|x86.ActiveCfg = Release|Win32
+		{B5793676-343C-4F8B-AF1B-38CBC3DA800A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

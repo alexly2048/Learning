@@ -13,9 +13,11 @@ typedef struct Books
 
 int main() {
 	Book book;
-
+#pragma warning(disable:4996)
 	strcpy(book.title, "C ΩÃ≥Ã");
+#pragma warning(disable:4996)
 	strcpy(book.author, "Runoob");
+#pragma warning(disable:4996)
 	strcpy(book.subject, "±‡≥Ã”Ô—‘");
 	book.book_id = 12345;
 

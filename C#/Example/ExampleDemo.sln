@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionStructExample", "Union
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperateExcelExample", "OperateExcelExample\OperateExcelExample.csproj", "{5316F3C3-7E83-402B-8A1F-1C6455D03B80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientExample", "WebClientExample\WebClientExample.csproj", "{8E24D837-29C9-4535-AD69-66DB093E9E30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5316F3C3-7E83-402B-8A1F-1C6455D03B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5316F3C3-7E83-402B-8A1F-1C6455D03B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5316F3C3-7E83-402B-8A1F-1C6455D03B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E24D837-29C9-4535-AD69-66DB093E9E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E24D837-29C9-4535-AD69-66DB093E9E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E24D837-29C9-4535-AD69-66DB093E9E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E24D837-29C9-4535-AD69-66DB093E9E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
