@@ -14,7 +14,7 @@ namespace ThreadLockDemo
         static void DoWork()
         {
             Console.WriteLine(" worker thread started, now waiting on event ...");
-            autoEvent.WaitOne();
+           autoEvent.WaitOne();
             Console.WriteLine(" worker thread reactivated, now exiting ...");
         }
         static void Main(string[] args)
