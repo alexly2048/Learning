@@ -1,0 +1,46 @@
+﻿<Window x:Class="LibraryManagementSystem.frmLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryManagementSystem"
+        mc:Ignorable="d"
+        Title="欢迎使用图书管理系统" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="320*"/>
+            <RowDefinition Height="99*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="121*"/>
+            <ColumnDefinition Width="516*"/>
+            <ColumnDefinition Width="155*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2" Source="E:\Document\0_PersonalDocument\996_PrivatePictures\Girl.png" Stretch="Fill" />
+        <Label Content="Label" Grid.Column="1" HorizontalAlignment="Left" Margin="109,119,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" Grid.Column="1" HorizontalAlignment="Left" Margin="109,216,0,0" VerticalAlignment="Top" RenderTransformOrigin="-5.745,-0.618"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="177,121,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.844,-2.625"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="177,220,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <DockPanel Grid.Column="1"  Height="79" LastChildFill="False" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="496">
+            <Button Content="登录" Name="btnLogin" Height="46" VerticalAlignment="Top" HorizontalAlignment="Left" Width="170" Click="btnLogin_Click">
+                <Button.Triggers>
+                    <EventTrigger  RoutedEvent="MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation BeginTime="0:0:1.5" Storyboard.TargetProperty="(Button.Width)" To="200"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation BeginTime="0:0:1.5" Storyboard.TargetProperty="(Button.Width)"></DoubleAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Button.Triggers>
+              </Button>
+                <Button Content="Button" Height="46" VerticalAlignment="Top" DockPanel.Dock="Right" Width="145"/>
+        </DockPanel>
+    </Grid>
+</Window>
